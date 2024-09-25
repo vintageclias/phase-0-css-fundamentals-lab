@@ -3,3 +3,28 @@ body {
   height: 100%;
   margin: 0;
 }
+hi {
+  color: red;
+}
+#header-tittle {
+  text-align: center;
+}
+nav {
+  text-align: center;
+}
+nav a {
+  padding: 10px;
+  background-color: gray;
+  color: white;
+  text-decoration: none;
+  margin: 5px;
+}
+nav a:hover {
+  background-color: darkgray;
+}
+#property-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+}
